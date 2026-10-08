@@ -1,0 +1,13 @@
+{
+  "name": "my-discord-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "這是一個透過 GitHub 管理的 Discord 機器人",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.17.3"
+  }
+}
